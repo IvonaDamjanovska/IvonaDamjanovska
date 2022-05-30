@@ -4,7 +4,7 @@
 
 <p><em>Software Enginner Student at <a href="[http://www.unb.br](https://www.finki.ukim.mk/)">Faculty of Computer Science & Engineering</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
- <h3> 👨🏻•💻 About Me </h3>
+ <h3>🏻•💻 About Me </h3>
 
 
 
